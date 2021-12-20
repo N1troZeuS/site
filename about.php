@@ -50,14 +50,13 @@
 							<div class='container-tx1-block darkmode-txt'>
 								<div class='container-emp-block'>
 								</div>
-								<h2>Идея проекта</h2>
+								<h2>О нас</h2>
 							</div>
 							<div class='container-tx2-block darkmode-txt'>
 								<p>
-									 Идея родилась после просмотра видеоролика одного блогера милионника на площадке YouTube, где он рассказывал о создании приложений, сайтов и так далее. Именно после этого я 
-									 взялся за шаблон rpcs3, который находится в открытом доступе, за что им огромное спасибо. После кардинальных изменений, когда я сделал все под себя, я опубликовал сайт и 
-									 разместил его код на Git hub, что бы все могли использовать его.  <br>
-									<br>
+									 Кто-то мог подумать, что Cypher и Nitrozeus - разные люди. Нет. Все было сделано 1 человеком примерно за месяц. Был найден макет и переделан под собственные нужды. Сайт только 
+									 развивается, поэтому, если у Вас возникают вопросы, обязательно забавайте их в социальных сетях. Будет добавлена отдельная вкладка, где будут публиковаться ответы на вопросы. 
+									 Если у Вас есть предложения или вы просто хотите поделиться мнением о сайте, то Discord для Вас. Вы обязательно получите ответ на свой вопрос в самое ближайшее время.
 									 
 								</p>
 							</div>
@@ -65,13 +64,13 @@
 					</div>
 				</div>
 				<div class='splitter-img-container splitter-con-right'>
-					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/project.jpg') no-repeat center; background-size: cover;">
+					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/ue.jpg') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 			</div>
 			<div class='splitter-con-container'>
 				<div class='splitter-img-container splitter-con-left'>
-					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/history.jpg') no-repeat center; background-size: cover;">
+					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/abs.png') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 				<div class='splitter-txt-wrapper'>
@@ -80,13 +79,12 @@
 							<div class='container-tx1-block darkmode-txt'>
 								<div class='container-emp-block'>
 								</div>
-								<h2>The History (2011 — Present)</h2>
+								<h2>Продолжение</h2>
 							</div>
 							<div class='container-tx2-block darkmode-txt'>
 								<p>
-									 The project was founded by programmers DH and Hykem in May of 2011. RPCS3 was first hosted on Google Code and was eventually migrated to GitHub later on in its development. The emulator's first successful game boot were primarily composed of smaller homebrew projects and focused hardware tests. <br>
-									<br>
-									 The emulator was later publicly released in June of 2012 and gained substantial attention from both the open-source community and PlayStation enthusiasts alike. Today, RPCS3 is co-developed by two new developers, Nekotekina and kd-11 in tandem with an amazing team of GitHub contributors.
+									 Если у Вас есть вопросы относительно прав, разрешений сайта и тому подобное, специально для этого была создана вкладка "Дисклеймер". Там указана вся возможная информация, 
+									 но если что то упущено, сообщайте. 
 								</p>
 							</div>
 						</div>
@@ -100,34 +98,21 @@
 							<div class='container-tx1-block darkmode-txt'>
 								<div class='container-emp-block'>
 								</div>
-								<h2>The People</h2>
+								<h2>О разработчиках</h2>
 							</div>
 							<div class='container-tx2-block darkmode-txt'>
 								<p>
-									 The project is currently maintained and organized by a unique cast of characters, all with meaningful roles to contribute to different aspects of the project. Whether it's working on the emulator directly, coordinating community efforts or even keeping this very website current, everyone plays a role that adds to the bigger picture. <br>
-									<br>
-									 Internal team members aren't the only contributors. A lot of the progress made in making PlayStation 3 emulation possible on PC is thanks to the many developers we've received contributions from in our GitHub community. While many developers do come and go, we do welcome anyone and everyone who is interested in improving the codebase.
+									 Большая часть времени проходит за клавиатурой и мониторами. 
+									 Мы довольно много времени уделяем разным компьютерным играм, я отношусь к любителям Королевских битв и аркадных гонок. В моей коллекции следующие игры (будут 
+									 перечисленны игры в которые я регулярно захожу): Fortnite, BeamNG Drive, Watch Dogs 2, VALORANT. Создана отдельная вкладка, где вы можете смотреть мою активность, мой ник в играх
+									 и так далее. Возможно, с некоторыми будем играть и так далее.
 								</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class='splitter-img-container splitter-con-right'>
-					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/team.jpg') no-repeat center; background-size: cover;">
-					</div>
-				</div>
-			</div>
-			<div class='container-con-block darkmode-block'>
-				<div class='container-con-wrapper'>
-					<div class='container-tx1-block darkmode-txt'>
-						<div class='container-emp-block'>
-						</div>
-						<h2>Founders</h2>
-					</div>
-					<div class='container-tx2-block darkmode-txt'>
-						<p>
-							 A list of the project founders who are also considered former, non-active developers.
-						</p>
+					<div class='splitter-img-wrapper' style="background: url('/img/graphics/about/room.png') no-repeat center; background-size: cover;">
 					</div>
 				</div>
 			</div>
@@ -148,7 +133,8 @@
 						</div>
 						<div class='user-tx3-content darkmode-txt'>
 							<span>
-							Один из основоположников данного сайта. Большая ему благодарность за время, затраченное на работы и исправления в коде. Занимается Front end разработкой, взял на себя работу по внешнему виду и содержимое контента.</span>
+							Один из основоположников данного сайта. Большая ему благодарность за время, затраченное на работы и исправления в коде. Занимается Front end разработкой, 
+							взял на себя работу по внешнему виду и содержимое контента.</span>
 						</div>
 						<div class="user-con-specsheet">
 							<div class="user-con-specbox">
@@ -203,13 +189,13 @@
 							<span class="user-tx2-member ">
 							Cypher</span>
 							<span class="user-con-role user-role-lead">
-							Lead Core Developer </span>
+							Аssistant</span>
 						</div>
 						<div class='user-con-divider role-lead darkmode-divider'>
 						</div>
 						<div class='user-tx3-content darkmode-txt'>
 							<span>
-							Nekotekina joined RPCS3 in late 2013 as a contributor. He is currently the project lead and lead core developer. He is working full-time on RPCS3 thanks to the funding provided by our Patrons. Nekotekina is the single-most active developer. </span>
+							Внес вклад в сайт, помогал в редактировании, ответственный за иконки, анимацию и так далее.</span>
 						</div>
 						<div class="user-con-specsheet">
 							<div class="user-con-specbox">
