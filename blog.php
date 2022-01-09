@@ -1,6 +1,6 @@
 <!doctype html>
 <head>
-<title>Cypher & Nitrozeus - портфолио</title>
+<title>Блог</title>
 <meta charset="utf-8">
 <?php include 'lib/module/sys-meta.php';?>
 <?php include 'lib/module/sys-css.php';?>
@@ -50,32 +50,28 @@
 					<div class="container-tx1-block darkmode-txt">
 						<div class='container-emp-block'>
 						</div>
-						<h2>Блог нашего сайта</h2>
+						<h2>Начало</h2>
 					</div>
 					<div class="container-tx2-block darkmode-txt">
 						<p>
-							 Эта страица будет отведена для создания блога сайта, здесь будут публиковаться обновления на сайте, </br>
-							 новости, интересные по мнению авторов события и так далее. На сайте возможны баги и т.д. При обнаружениии сообщать в Discord сервер.
+							Начать хотелось бы с того, что каждый человек, оставивший комментарий, отзыв, придложение, жалобу, вообще что-то существенное, вносит большой вклад в наше развивающееся сообщество.
+							Мы читаем все комментарии, делаем выводы, меняем, улучшаем, дорабатываем, стараемся улучшить наш сайт. Все наши контакты расположены на отдельной вкладке.
 						</p>
 					</div>
 				</div>
 			</div>
-			<div class="spec-con-container">
-
-				<div class="spec-con-max darkmode-txt">
-				<div class="spec-con-title spec-max"><h2>Примите участие в создании сайта</h2></div>
-				<div class="spec-con-desc">
-				<h3>Возможно контент, которым вы можете делиться с нами, будет опубликован</h3></div>
-			<div class="container-con-wrapper">
-				<div class="anchor-point" id="requirements_laptop">
-				</div>
-				<div class="container-tx1-block darkmode-txt">
-					<h2>Discord</h2>
-				</div>
-				<div class="container-tx2-block darkmode-txt">
-					<p>
-						 Есть у нас группа в Discord, будем рады Вас видеть, делитесь своим мнением о сайте, делитесь всем, что интересно Вам и тем, о чем хотели бы поведать миру.
-					</p>
+			<div class='container-con-block darkmode-block'>
+				<div class='container-con-wrapper'>
+					<div class='container-tx1-block darkmode-txt'>
+						<div class='container-emp-block'>
+						</div>
+						<h2>Не баг, а фича</h2>
+					</div>
+					<div class='container-tx2-block darkmode-txt'>
+						<p>
+							На сайте возможны баги, если вы обнауживаете их, просьба незамедлительно сообщить!
+						</p>
+					</div>
 				</div>
 			</div>
 			<div class="container-con-wrapper">
@@ -86,8 +82,7 @@
 				</div>
 				<div class="container-tx2-block darkmode-txt">
 					<p>
-						 The software requirements for running the emulator must be met in order for the software to function at all. The PlayStation 3 system software is required because it is utilized to load system files for the emulator such as the PlayStation 3's proprietary system libraries. Linux and BSD based operating systems do not require the Microsoft Visual C++ 2019 redistributable.<br>
-						<br>
+						Если у Вас остались вопросы, спрашиваете, мы постараемся ответить
 					</p>
 				</div>
 			<div class="generic-con-button ">
@@ -96,7 +91,7 @@
 					<div class="generic-ico-button" style="background: url('/img/icons/buttons/patcher-h.png') no-repeat center">
 					</div>
 					<div class="generic-tx1-button">
-						<span>Don`t work<span class="generic-tx2-label">Не работает по тех. причинам</span></span>
+						<span>Загрузить<span class="generic-tx2-label">Не работает по тех. причинам</span></span>
 					</div>
 				</div>
 				</a>
